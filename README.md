@@ -1,2 +1,2 @@
-# Quotes on Ferenc branch
+# Quotes
 Have fun!
